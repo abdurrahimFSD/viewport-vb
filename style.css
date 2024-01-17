@@ -19,7 +19,7 @@ header {
       hsl(240 54% 20% / 0.5),
       hsl(240 54% 20% / 0.9) 50%
     ),
-    url("./assets/images/header-bg.avif");
+    url("assets/images/header-bg.avif");
   background-blend-mode: multiply;
   background-size: cover;
   background-position: center;
